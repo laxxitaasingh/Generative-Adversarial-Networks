@@ -1,2 +1,3 @@
 # Generative-Adversarial-Networks
-Basic GAN implementation to generate numbers using MNIST dataset
+1.Basic GAN implementation to generate numbers using MNIST dataset.
+2.Basic GAN implementation to generate Celebrity faces.
